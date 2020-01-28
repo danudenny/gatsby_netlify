@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: i am web developer
 image: /img/graphic-design-studio-1563080_1920.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: I am web developer
+subheading: 'focused on UI/UX, Backend, and Frontend.'
 mainpitch:
   title: Why Kaldi
   description: >
